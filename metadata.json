@@ -1,0 +1,8 @@
+
+{
+  "name": "AgriGuide AI: Rural Farmer Companion",
+  "description": "A comprehensive agricultural advisor providing crop selection, fertilizer guidance, and pest detection using advanced AI for rural farmers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
